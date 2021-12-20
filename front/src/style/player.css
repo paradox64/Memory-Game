@@ -1,0 +1,20 @@
+.player{
+    border-radius: 20px;
+    display: inline-block;
+    overflow: hidden;
+    transition:all 0.5s;
+    border: black 4px solid;
+}
+
+
+.contentPlayer,.timer{
+    padding: 2px;
+    border-top: black 2px solid;
+    font-size:30px;
+    margin: 0%;
+
+}
+
+.timer{
+    width:200px;
+}

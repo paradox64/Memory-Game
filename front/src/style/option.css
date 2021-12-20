@@ -1,0 +1,20 @@
+.optionContainer{
+    position: fixed;
+    z-index: 2;
+    margin: 0px;
+    margin-top: -12px;
+}
+
+.optionButton{
+    background-color: rgb(255, 189, 9);
+    border-radius: 30px;
+    border: transparent;
+    padding-left: 12px;
+    font-size: larger;
+    margin: 4px;
+    padding-right: 12px;
+}
+
+.optionButton:hover{
+    transform: scale(1.05);
+}
